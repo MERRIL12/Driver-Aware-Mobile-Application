@@ -1,2 +1,2 @@
 # Driver-Aware-Mobile-Application
-The given is the code used for building the mobile application named Drive. 
+The mobile application Drive is built to support the IoT device which is used for Drowsinness detection in drivers.
